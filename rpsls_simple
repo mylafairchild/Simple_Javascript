@@ -1,4 +1,7 @@
-var userChoice = prompt("Do you choose rock, paper, scissors, lizard or spock?");
+//Using codeacademy's rock paper scissors code and formula, I created rock paper scissors lizard spock
+//I know that this is a lot of repeating, and messy. It was challenging doing it this way
+
+var userChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
 if (computerChoice < 0.23) {
 	computerChoice = "rock";
@@ -20,9 +23,17 @@ else if(choice1 === "rock") {
         return "rock wins";
     }
     else {
-        return "paper wins";
+        return "spock wins";
     }
 }
+    else if(choice1 === "paper") {
+        if(choice2 === "spock") {
+            return "paper wins"
+        }
+        else {
+            return "lizard wins"
+        }
+    }
     else if(choice1 === "paper") {
         if(choice2 === "rock") {
             return "paper wins"
