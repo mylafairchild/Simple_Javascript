@@ -32,4 +32,4 @@ switch (randomNumber) {
 }
 
     console.log(userQuestion);
-    console.log(dinnerSolutio);
+    console.log(dinnerSolution);
