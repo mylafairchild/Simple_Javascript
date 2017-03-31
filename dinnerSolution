@@ -4,28 +4,28 @@ var dinnerSolution = "";
 
 switch (randomNumber) {
   case 0:
-    eightBall = 'Your favorite pizza.';
+    dinnerSolution = 'Your favorite pizza.';
     break;
   case 1:
-    eightBall = 'Make it tacos!';
+    dinnerSolution = 'Make it tacos!';
     break;
   case 2:
-    eightBall = 'Sassy, saucy spaghetti...';
+    dinnerSolution = 'Sassy, saucy spaghetti...';
     break;
   case 3:
-    eightBall = 'Make some tasty tosadas!';
+    dinnerSolution = 'Make some tasty tosadas!';
     break;
   case 4:
-    eightBall = 'Let\'s do light. How about salad!';
+    dinnerSolution = 'Let\'s do light. How about salad!';
     break;
   case 5:
-    eightBall = 'Meat and potatoes.';
+    dinnerSolution = 'Meat and potatoes.';
     break;
   case 6:
-    eightBall = 'Fish and chips!';
+    dinnerSolution = 'Fish and chips!';
     break;
   case 7:
-    eightBall = 'Make breakfast for dinner!';
+    dinnerSolution = 'Make breakfast for dinner!';
     break;
    default:
     break;
