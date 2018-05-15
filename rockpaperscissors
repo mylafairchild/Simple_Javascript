@@ -67,4 +67,4 @@ var randomNumber = Math.floor(Math.random() * 3);
     console.log(determineWinner(userChoice, computerChoice));
 }
 
-    playGame();
+    playGame()
