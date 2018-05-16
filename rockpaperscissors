@@ -1,5 +1,5 @@
-#Codeacademy Rock, Paper, Scissors
-#Switch example
+//Codeacademy Rock, Paper, Scissors
+//Switch example
 
 function getUserChoice() {
   var userInput = prompt('Rock, Paper, or Scissors?');
