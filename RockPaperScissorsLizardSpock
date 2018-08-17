@@ -1,4 +1,4 @@
-//Using codeacademy's rock paper scissors code and formula, I created rock paper scissors lizard spock
+//Welcome to Rock, Paper, Scissors, Lizard, Spock
 //I know that this is a lot of repeating, and messy. It was challenging doing it this way
 
 var userChoice = prompt("Do you choose rock, paper, scissors, lizard, or Spock?");
