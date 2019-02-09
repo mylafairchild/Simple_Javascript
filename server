@@ -1,4 +1,4 @@
-//Creating a server
+//Creating a server, wrote for node
 //Myla Fairchild
 
 var http = require('http');
