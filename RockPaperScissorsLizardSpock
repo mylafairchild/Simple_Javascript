@@ -1,5 +1,7 @@
 //Welcome to Rock, Paper, Scissors, Lizard, Spock
 //I know that this is a lot of repeating, and messy. It was challenging doing it this way
+//Myla Fairchild
+//I failed the Fizzbuzz challenge and now I question my life choices
 
 var userChoice = prompt("Do you choose rock, paper, scissors, lizard, or Spock?");
 var computerChoice = Math.random();
