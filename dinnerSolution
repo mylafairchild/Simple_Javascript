@@ -1,3 +1,6 @@
+// Myla Fairchild
+// If only this code could cure cancer
+
 var userQuestion = 'Think of a number one through seven. This will provide dinner for you.';
 var randomNumber = Math.floor(Math.random() * 7);
 var dinnerSolution = "";
