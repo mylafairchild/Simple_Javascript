@@ -1,4 +1,5 @@
 //Myla Fairchild
+//I know HL7, hire me!
 
 //Message Types
 const msh = "MSH"; //Message Header
