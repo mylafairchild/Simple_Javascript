@@ -1,2 +1,2 @@
 # Website-Code
-# Simple_Javascript
+# JavaScript
