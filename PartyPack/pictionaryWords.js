@@ -1,4 +1,6 @@
-// npm install random-words
+// Myla Fairchild
+// Pictionary word generator. Let's get ready to drawwwwww!!!!!!!!
+// © 2020
 
 var categories = ['Beach ball', 'Glasses', 'Snowflake', 'Book', 'High heel',
 'Desk', 'Door', 'Stairs', 'Bucket', 'Ice cream cone', 'Starfish', 'Igloo', 'Bird nest', 'Fridge', 'Strawberry', 'Butterfly', 'Lady bug',
@@ -49,6 +51,5 @@ var categories = ['Beach ball', 'Glasses', 'Snowflake', 'Book', 'High heel',
 var word = categories[Math.floor(Math.random() * categories.length)];
 
 console.log("You must draw a/an: " + word);
-
 
 
